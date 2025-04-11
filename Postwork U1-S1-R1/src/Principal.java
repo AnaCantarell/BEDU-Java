@@ -7,18 +7,14 @@ public class Principal {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Nombre: ");
-        p1.nombre = sc.nextLine(); // Con nextLine() se limpia el buffer en automático
+        p1.nombre = sc.nextLine(); 
 
         System.out.print("Edad: ");
-        p1.edad = sc.nextInt(); // Para nextLine(), limpiar buffer con un input.nextLine()
-        //input.nextLine();
+        p1.edad = sc.nextInt(); 
 
         System.out.print("Número de expediente: ");
         p1.expediente = sc.next();
-        //p1.expediente = sc.nextLine();
-        //input.close()
 
-        // Para cerrar los posibles procesos de entrada usamos input.close();
         p1.mostrarInfo();
     }
 }
