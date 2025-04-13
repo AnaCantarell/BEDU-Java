@@ -3,13 +3,6 @@ Entrega de proyectos para Bedu del curso Programación con Java.
 
 ---
 
-## ÍNDICE
-
--[UNIDAD 1 - SESIÓN 1 - RETO 1](#UNIDAD-1---SESION-1---RETO-1)
--[UNIDAD 1 - SESIÓN 1 - RETO 2](#UNIDAD-1---SESION-1---RETO-2)
-
----
-
 ## UNIDAD 1 - SESIÓN 1 - RETO 1
 
 ### 🎯 Objetivo
@@ -41,11 +34,22 @@ Entrega de proyectos para Bedu del curso Programación con Java.
    - Asigna los valores ingresados por el usuario
    - Llama al método `mostrarInformacion()` para mostrar los datos en consola
 
-🧠 **Nota:**  
-Este reto está diseñado para reforzar los fundamentos de Java y la Programación Orientada a Objetos (POO), utilizando dos archivos diferentes uno para el objeto Paciente y otro archivo el cual ejecuta el código.
+🧠 **Nota:** Utiliza dos archivos diferentes uno para el objeto Paciente y otro archivo el cual ejecuta el código.
 
-🏆 **Evidencias:** Capturas de clases y solución del reto.  
+#### 🏆 Evidencias:
 
+<b>Capturas de clases<b>
+<div align="center">
+    <img src="Imagenes/R1-1.jpg" alt="Reto1_1">
+</div>
+<div align="center">
+    <img src="Imagenes/R1-2.jpg" alt="Reto1_2">
+</div>
+<b>Salidas<b>
+<div align="center">
+    <img src="Imagenes/R1-3.jpg" alt="Reto1_3">
+</div>
+   
 ## UNIDAD 1 - SESIÓN 1 - RETO 2
 
 ---
