@@ -52,11 +52,9 @@ Entrega de proyectos para Bedu del curso Programación con Java.
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+<b>Capturas de clase y salida<b>
+<div align="center"><img src="Imagenes/R3-1.png" alt="Reto3_1"></div>
+<div align="center"><img src="Imagenes/R3-2.png" alt="Reto3_2"></div>
 
 ---
 
@@ -68,11 +66,19 @@ Entrega de proyectos para Bedu del curso Programación con Java.
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+<b>Captura de clase<b>
+<div align="center"><img src="Imagenes/R4-1.png" alt="Reto4_1"></div>
+
+<b>Elige una operación y realizar una segunda operación<b>
+<div align="center"><img src="Imagenes/R4-2.png" alt="Reto4_2"></div>
+<div align="center"><img src="Imagenes/R4-3.png" alt="Reto4_3"></div>
+<div align="center"><img src="Imagenes/R4-4.png" alt="Reto4_4"></div>
+
+<b>Elige retirar sin saldo suficiente como operación y no realizar una segunda operación<b>
+<div align="center"><img src="Imagenes/R4-5.png" alt="Reto4_5"></div>
+
+<b>Elige salir del menú sin hacer operaciones<b>
+<div align="center"><img src="Imagenes/R4-6.png" alt="Reto4_6"></div>
 
 ---
 
