@@ -90,11 +90,7 @@ Diseñar un sistema básico de **reservas de vuelo** aplicando los fundamentos d
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -106,11 +102,7 @@ Diseñar una clase `Factura` aplicando los principios de **encapsulación con mo
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -122,11 +114,7 @@ Diseñar una clase `Factura` aplicando los principios de **encapsulación con mo
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -138,11 +126,7 @@ Diseñar una clase `Factura` aplicando los principios de **encapsulación con mo
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -154,11 +138,7 @@ Construir un sistema que modele diferentes tipos de **unidades de emergencia**, 
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -170,11 +150,7 @@ Diseñar un sistema de pagos en el que distintos métodos de pago (efectivo, tar
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -186,11 +162,7 @@ Practicar el uso de `ArrayList`, `HashSet` y `HashMap` en un contexto profesiona
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -206,11 +178,7 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -222,11 +190,7 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -238,11 +202,7 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -254,11 +214,7 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
@@ -270,11 +226,7 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-<b>Capturas de clases<b>
-<div align="center"><img src="Imagenes/R1-1.png" alt="Reto1_1"></div>
-<div align="center"><img src="Imagenes/R1-2.png" alt="Reto1_2"></div>
-<b>Salidas<b>
-<div align="center"><img src="Imagenes/R1-3.png" alt="Reto1_3"></div>
+
 
 ---
 
