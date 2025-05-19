@@ -90,7 +90,8 @@ Diseñar un sistema básico de **reservas de vuelo** aplicando los fundamentos d
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R5-1.png" alt="Reto5_1"></div>
 
 ---
 
@@ -102,7 +103,8 @@ Diseñar una clase `Factura` aplicando los principios de **encapsulación con mo
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R6-1.png" alt="Reto6_1"></div>
 
 ---
 
@@ -114,7 +116,8 @@ Diseñar una clase `Factura` aplicando los principios de **encapsulación con mo
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R7-1.png" alt="Reto7_1"></div>
 
 ---
 
@@ -126,7 +129,8 @@ Diseñar una clase `Factura` aplicando los principios de **encapsulación con mo
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R8-1.png" alt="Reto8_1"></div>
 
 ---
 
@@ -138,7 +142,8 @@ Construir un sistema que modele diferentes tipos de **unidades de emergencia**, 
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R9-1.png" alt="Reto9_1"></div>
 
 ---
 
@@ -150,7 +155,8 @@ Diseñar un sistema de pagos en el que distintos métodos de pago (efectivo, tar
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R10-1.png" alt="Reto10_1"></div>
 
 ---
 
@@ -162,7 +168,8 @@ Practicar el uso de `ArrayList`, `HashSet` y `HashMap` en un contexto profesiona
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R11-1.png" alt="Reto11_1"></div>
 
 ---
 
@@ -178,7 +185,8 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R12-1.png" alt="Reto12_1"></div>
 
 ---
 
@@ -190,7 +198,8 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R13-1.png" alt="Reto13_1"></div>
 
 ---
 
@@ -202,7 +211,8 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R14-1.png" alt="Reto14_1"></div>
 
 ---
 
@@ -214,7 +224,8 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R15-1.png" alt="Reto15_1"></div>
 
 ---
 
@@ -226,67 +237,5 @@ Practicar el uso de:
 
 #### 🏆 Evidencias:
 
-
-
----
-
-## UNIDAD 2 - SESIÓN 1 - RETO 2
-
-
-
----
-
-## UNIDAD 2 - SESIÓN 2 - RETO 1
-
----
-
-## UNIDAD 2 - SESIÓN 2 - RETO 2
-
----
-
-## UNIDAD 2 - SESIÓN 3 - RETO 1
-
----
-
-## UNIDAD 2 - SESIÓN 3 - RETO 2
-
----
-
-## UNIDAD 2 - SESIÓN 4 - RETO 1
-
----
-
-## UNIDAD 2 - SESIÓN 4 - RETO 2
-
----
-
-## UNIDAD 2 - SESIÓN 5 - RETO 1
-
----
-
-## UNIDAD 2 - SESIÓN 5 - RETO 2
-
----
-
-## UNIDAD 2 - SESIÓN 6 - RETO 1
-
----
-
-## UNIDAD 2 - SESIÓN 6 - RETO 2
-
----
-
-## UNIDAD 2 - SESIÓN 7 - RETO 1
-
----
-
-## UNIDAD 2 - SESIÓN 7 - RETO 2
-
----
-
-## UNIDAD 2 - SESIÓN 8 - RETO 1
-
----
-
-## UNIDAD 2 - SESIÓN 8 - RETO 2
-
+<b>Salidas correspondientes<b>
+<div align="center"><img src="Imagenes/R16-1.png" alt="Reto16_1"></div>
